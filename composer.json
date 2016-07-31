@@ -1,10 +1,10 @@
 {
-    "name": "kirkbushell/eloquence",
+    "name": "alimfazeli/eloquence",
     "description": "A set of extensions adding additional functionality and consistency to Laravel's awesome Eloquent library.",
-    "keywords": ["laravel", "eloquent", "camelcase", "camel", "case", "snake_case", "snake"],
+    "keywords": ["laravel", "eloquent", "camelcase", "camel", "case", "snake_case", "snake", "counter cache"],
     "authors": [
         {
-            "name": "Kirk Bushell",
+            "name": "Ali Fazeli",
             "email": "torm3nt@gmail.com"
         }
     ],
